@@ -94,7 +94,8 @@
 	
 	p, ul, ol, dl, table, blockquote, form
 	{
-		margin-bottom: 2em;
+	margin-bottom: 2em;
+	text-align: left;
 	}
 		
 	/* Table */
@@ -536,3 +537,29 @@
 					display: none;
 				}
 
+
+/**#box    {  width:250px;
+           height:50px;
+           box-shadow:inset 1px 1px 40px 0 rgba(0,0,0,.45);
+          border-bottom:0px solid #fff;
+          border-right:0px solid #fff;
+          margin:0 auto 0 auto; 
+ 
+  background-size:cover;
+border-radius:5px;
+overflow:hidden;}
+
+#overlay    {  background:rgba(0,0,0,.75);
+               text-align:center;
+               padding:15px 0 33px 0;
+               opacity:0;
+               -webkit-transition: opacity .25s ease;
+-moz-transition: opacity .25s ease;}
+
+#box:hover #overlay {
+               opacity:1;}
+
+#plus       {  font-family:Helvetica;
+               font-weight:900;
+               color:rgba(255,255,255,.85);
+               font-size:36px;}
