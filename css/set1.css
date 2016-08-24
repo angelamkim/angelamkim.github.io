@@ -101,7 +101,7 @@
 
 /*---------------*/
 /***** Lily *****/
-/*---------------*/
+/*---------------
 
 figure.effect-lily img {
 	max-width: none;
@@ -166,7 +166,7 @@ figure.effect-lily:hover p {
 
 /*---------------*/
 /***** Sadie *****/
-/*---------------*/
+/*---------------
 
 figure.effect-sadie figcaption::before {
 	position: absolute;
@@ -226,7 +226,7 @@ figure.effect-sadie:hover p {
 
 /*---------------*/
 /***** Roxy *****/
-/*---------------*/
+/*---------------
 
 figure.effect-roxy {
 	background: -webkit-linear-gradient(45deg, #ff89e9 0%, #05abe0 100%);
@@ -290,7 +290,7 @@ figure.effect-roxy:hover p {
 
 /*---------------*/
 /***** Bubba *****/
-/*---------------*/
+/*---------------
 
 figure.effect-bubba {
 	background: -webkit-linear-gradient(45deg, #ff89e9 0%, #05abe0 100%);
@@ -367,7 +367,7 @@ figure.effect-bubba:hover p {
 
 /*---------------*/
 /***** Romeo *****/
-/*---------------*/
+/*---------------
 
 figure.effect-romeo {
 	-webkit-perspective: 1000px;
@@ -447,7 +447,7 @@ figure.effect-romeo:hover p {
 
 /*---------------*/
 /***** Layla *****/
-/*---------------*/
+/*---------------
 
 figure.effect-layla {
 	background: #18a367;
@@ -552,7 +552,7 @@ figure.effect-layla:hover img {
 
 /*---------------*/
 /***** Honey *****/
-/*---------------*/
+/*---------------
 
 figure.effect-honey {
 	background: #4a3753;
@@ -616,7 +616,7 @@ figure.effect-honey:hover h2 i {
 
 /*---------------*/
 /***** Oscar *****/
-/*---------------*/
+/*---------------
 
 figure.effect-oscar {
 	background: -webkit-linear-gradient(45deg, #22682a 0%, #9b4a1b 40%, #3a342a 100%);
@@ -685,7 +685,7 @@ figure.effect-oscar:hover img {
 
 /*---------------*/
 /***** Marley *****/
-/*---------------*/
+/*---------------
 
 figure.effect-marley figcaption {
 	text-align: right;
@@ -748,7 +748,7 @@ figure.effect-marley:hover p {
 
 /*---------------*/
 /***** Ruby *****/
-/*---------------*/
+/*---------------
 
 figure.effect-ruby {
 	background-color: #17819c;
@@ -800,7 +800,7 @@ figure.effect-ruby:hover p {
 
 /*---------------*/
 /***** Milo *****/
-/*---------------*/
+/*---------------
 
 figure.effect-milo {
 	background: #2e5d5a;
@@ -852,7 +852,7 @@ figure.effect-milo:hover p {
 
 /*---------------*/
 /***** Dexter *****/
-/*---------------*/
+/*---------------
 
 figure.effect-dexter {
 	background: -webkit-linear-gradient(top, rgba(37,141,200,1) 0%, rgba(104,60,19,1) 100%);
@@ -913,7 +913,7 @@ figure.effect-dexter:hover p {
 
 /*---------------*/
 /***** Sarah *****/
-/*---------------*/
+/*---------------
 
 figure.effect-sarah {
 	background: #42b078;
@@ -983,7 +983,7 @@ figure.effect-sarah:hover p {
 
 /*---------------*/
 /***** Zoe *****/
-/*---------------*/
+/*---------------*
 
 figure.effect-zoe figcaption {
 	top: auto;
@@ -1023,7 +1023,7 @@ figure.effect-zoe p.description {
 	opacity: 0;
 	-webkit-transition: opacity 0.35s;
 	transition: opacity 0.35s;
-	-webkit-backface-visibility: hidden; /* Fix for Chrome 37.0.2062.120 (Mac) */
+	-webkit-backface-visibility: hidden; /* Fix for Chrome 37.0.2062.120 (Mac) *
 }
 
 figure.effect-zoe h2,
